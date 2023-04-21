@@ -1,0 +1,38 @@
+:root{
+ --main-text: red;
+ --sub-text: white;
+}
+
+* {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+}
+
+u {
+    font-size: 200%;
+    color: var(--main-text);
+    
+}
+#opening {
+    color:var(--sub-text);
+    text-align: center;
+    font-size: 120%;
+}
+
+p {
+    color: var(--sub-text);
+    font-size: 100%;
+}
+h2 {
+    font-size: 130%;
+    color: var(--sub-text);
+    justify-content: left;
+    padding-top: 20px;
+}
+li {
+
+}
