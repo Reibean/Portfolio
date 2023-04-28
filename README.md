@@ -1,4 +1,4 @@
-[Juuzou](https://user-images.githubusercontent.com/130249033/235043880-21bf4ddf-efd4-4a9f-ad84-992c99453131.jpg)
+
 #Portfolio
  Bootcamp homework! Personal Portfolio of all my coding work so far!
 
@@ -10,3 +10,4 @@ No contributions for this space as it is both my collection of works and a pract
 
 # License
 MIT
+[Juuzou](https://user-images.githubusercontent.com/130249033/235043880-21bf4ddf-efd4-4a9f-ad84-992c99453131.jpg)
