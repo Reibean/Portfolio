@@ -12,7 +12,7 @@ No contributions for this space as it is both my collection of works and a pract
 MIT
 
 # Image references
-[Juuzou](https://user-images.githubusercontent.com/130249033/235043880-21bf4ddf-efd4-4a9f-ad84-992c99453131.jpg)
+![Juuzou](https://user-images.githubusercontent.com/130249033/235043880-21bf4ddf-efd4-4a9f-ad84-992c99453131.jpg)
 ![knight](https://user-images.githubusercontent.com/130249033/235044336-04117591-2534-4ad0-9ef1-fe636d2d4f66.jpg)
 ![Screenshot 2023-04-27 115447](https://user-images.githubusercontent.com/130249033/235044348-b398ba2f-0a98-427b-a5d5-59d36f4872b6.png)
 ![Screenshot 2023-04-27 115537](https://user-images.githubusercontent.com/130249033/235044405-efdbf620-7dd6-4344-89f2-588dc0c9c998.png)
