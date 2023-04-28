@@ -1,20 +1,22 @@
+/*variables for quick and easy styling/restyling*/
 :root{
     --main: red;
     --sub: white;
     --dark: black;
    }
-   
+/*font settings for webpage to default to*/
    * {
        font-family: Arial, Helvetica, sans-serif;
        font-size: 20px;
        background-color: var(--dark);
    }
-   
+/*design for the opening text following the title*/   
    .opening {
        color:var(--sub);
        text-align: center;
        font-size: 120%;
    }
+/*design for text to introduce the webpage*/
    .title {
        color: var(--main);
        font-size: 200%;
@@ -23,30 +25,34 @@
        border-bottom: 0px;
        font-family: Verdana, Tahoma, sans-serif;
    }
+/*section heading designs*/
    h2 {
        color: var(--main);
        font-size: 200%;
        margin: 0px;
    }
+/*I don't think this is actually doing anything*/
    a {
        color: var(--sub)
    }
+/*helps display navigation elements*/
    nav {
        display: inline-flex;
        font-size: 100%;
        margin-left: 40%;
        color: var(--sub);
    }
+/*proper spacing for words in navigation menu*/
    .header {
        padding-right: 15px;
    }
+/*font design for headings throughout page*/
    .funny {
        font-size: 150%;
        color: var(--main);
        text-align: center;
-   
    }
-   
+/*font design for labeling of images*/
    .links {
        text-align: center;
        margin-bottom: 40px;
@@ -54,16 +60,19 @@
        color: var(--sub);
        font-size: 120%;
    }
+/*font styling for about me text section*/
    .text {
        color: var(--sub);
        font-size: 100%; 
        text-align: center;
    }
+/*styling for contact me section*/
    .container {
        justify-content: center;
        color: var(--sub);
        text-align: center;
    }
+/*Styling and formatting for images added in the header*/
    .Juuzou {
        margin-left: 80px;
        margin-right: 80px;
